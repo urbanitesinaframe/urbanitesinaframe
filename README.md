@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning how to code with https://coding-bootcamp.eu
+- ☕ I love coffee
+- 💻 I like tech
+- 🍕🍔🍟🥐🥩🍜🦪🥬 I love food
+- 🏌️‍♂️ I like to play golf
+
 <!--
 **urbanitesinaframe/urbanitesinaframe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
