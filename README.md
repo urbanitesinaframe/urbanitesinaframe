@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning how to code with [coding-bootcamp.eu](https://coding-bootcamp.eu)
+- 🌱 I’m currently learning how to code with [coding-bootcamps.eu](https://coding-bootcamp.eu)
 - ☕ I love coffee
 - 💻 I like tech
 - 🍕🍔🍟🥐🥩🍜🦪🥬 I love food
