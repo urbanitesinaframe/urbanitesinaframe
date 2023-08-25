@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m a alumni of [coding-bootcamps.eu](https://coding-bootcamp.eu)
+- 🌱 I’m an alumni of [coding-bootcamps.eu](https://coding-bootcamp.eu)
 - ☕ I love coffee
 - 🍕🍔🍟🥐🥩🍜🦪🥬 I love food
 - 🏌️‍♂️ I like to play golf
